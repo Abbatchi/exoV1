@@ -1,0 +1,42 @@
+body {
+	background-color: #ffffdd
+
+
+}
+
+#header{
+	width: 100px;
+}
+#left {
+	display: flex;
+	width: 200px;
+}
+
+
+#body1{
+	display: flex;
+	flex-direction: row;
+}
+
+#p1	{	
+	background-color: #fff555;
+	max-height: 300px;
+	max-width: 700px;
+	overflow: auto;
+	margin: auto;
+	
+}
+
+#p2	{	
+	background-color: #fff555;
+	max-height: 300px;
+	max-width: 700px;
+	overflow: auto;
+
+}
+.par1 {
+	color: red;
+}
+.par2 {
+	color: green;
+}
