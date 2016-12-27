@@ -51,3 +51,7 @@ h2{
 .par2 {
 	color: green;
 }
+
+#span1{
+	display: block;
+}
