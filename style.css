@@ -15,9 +15,6 @@ body {
 	flex-direction: column;
 }
 
-nav{
-
-}
 
 h2{
 	display: list-item;
@@ -41,6 +38,7 @@ h2{
 	max-width: 700px;
 	overflow: auto;
 	border-spacing: 5px;
+	align-content: center;
 	
 	
 }
@@ -63,4 +61,13 @@ h2{
 
 	display: block;
 
+}
+
+#img1{
+	width: 200px;
+	float: left;
+}
+#img2{
+	width: 200px;
+	float: right;
 }
