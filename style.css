@@ -7,9 +7,16 @@ body {
 #header{
 	height: 100px;
 }
+
+
 #left {
 	display: flex;
 	width: 200px;
+	flex-direction: column;
+}
+
+nav{
+
 }
 
 h2{
@@ -53,5 +60,7 @@ h2{
 }
 
 #span1{
+
 	display: block;
+
 }
